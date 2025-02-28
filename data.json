@@ -2,7 +2,7 @@
     "post1": {
         "postTitle": "Titulo do post 1",
         "postDescription": "Descrição do primeiro post",
-        "postImage": "https://raw.github.com/peuMelo/dataJason/blob/main/App.jsx%20-%20Untitled%20(Workspace)%20-%20Visual%20Studio%20Code%2027_02_2025%2022_55_09.png"
+        "postImage": "https://raw.githubusercontent.com/peuMelo/dataJason/refs/heads/main/App.jsx%20-%20Untitled%20(Workspace)%20-%20Visual%20Studio%20Code%2027_02_2025%2022_55_09.png"
     },
 
     "post2": {
