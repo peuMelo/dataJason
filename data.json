@@ -1,0 +1,19 @@
+{
+    "post1": {
+        "postTitle": "Titulo do post 1",
+        "postDescription": "Descrição do primeiro post",
+        "postImage": ""
+    },
+
+    "post2": {
+        "postTitle": "Titulo do post 2",
+        "postDescription": "Descrição do segundo post",
+        "postImage": ""
+    },
+
+    "post3": {
+        "postTitle": "Titulo do post 3",
+        "postDescription": "Descrição do terceiro post",
+        "postImage": ""
+    }
+}
